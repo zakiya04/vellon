@@ -1,0 +1,11 @@
+{
+  "name": "vellon",
+  "version": "1.0.0",
+  "description": "backend of a full stack e-commerce app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zakiya",
+  "license": "ISC"
+}
